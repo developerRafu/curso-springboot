@@ -1,4 +1,4 @@
-package com.dominio;
+package com.rafu.workshop.dominio;
 
 import java.io.Serializable;
 
